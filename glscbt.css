@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://www.goodnet.org/photos/620x0/30700_hd.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-color:black;
+}
+.jumbotron{
+    background: rgba(145, 144, 144, 0.7);
+  }
+
+  .jumbotron h1 {
+      color: rgb(219, 217, 217);
+      background-color: rgba(29, 163, 17, 0.7);
+      padding-left: 20px;
+      padding-bottom: 20px;
+      border-radius: 5px;
+  }
+  .jumbotron p {
+      color: white;
+  }
+
+  .footer {
+      
+  }
